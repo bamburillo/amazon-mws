@@ -1,5 +1,5 @@
 {
-    "name": "mcs/amazon-mws",
+    "name": "bamburillo/amazon-mws",
     "description": "Library to interface with Amazon MWS",
     "license": "MIT",
     "keywords": ["amazon", "mws"],
@@ -8,7 +8,11 @@
         {
             "name": "Michiel Meertens",
             "email": "meertensmichiel28@gmail.com"
-        }
+        },
+        {
+            "name": "Vladimir Jucov",
+            "email": "bamburillo@gmail.com"
+        },
     ],
     "require": {
         "php": ">= 5.4",
